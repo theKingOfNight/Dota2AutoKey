@@ -79,7 +79,3 @@ pip install pyautogui keyboard
 ## 许可证
 
 本项目基于 MIT 许可证发布，您可以随意将其用于个人或商业项目。
-
-## 致谢
-
-- 感谢 `pyautogui` 和 `keyboard` 库的开发人员，它们为本项目的开发提供了基础功能。
